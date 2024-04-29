@@ -1,0 +1,38 @@
+cd
+ls -hasl
+pwd
+mkdir
+cat
+apt update
+apt upgrde
+apt dist-upgrade
+apt install
+sudo
+touch
+man
+clear
+whoiam
+echo
+chmod
+rm -r
+hostname
+cp -r
+mv
+grep -r
+chown
+chgrp
+ps -ef
+kill
+killall
+top
+uname -a
+df
+free
+uptime
+ifconfig
+ping
+htop
+reboot
+shutdown
+netstat
+date
